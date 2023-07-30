@@ -1,0 +1,21 @@
+{
+    "name": "nece001/php-brawl-sms",
+    "description": "PHP 语音识别基础服务适配项目",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nece\\Brawl\\Asr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nece001",
+            "email": "nece001@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "nece001/php-brawl": "^1.0"
+    }
+}
