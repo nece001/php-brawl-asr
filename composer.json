@@ -1,5 +1,5 @@
 {
-    "name": "nece001/php-brawl-sms",
+    "name": "nece001/php-brawl-asr",
     "description": "PHP 语音识别基础服务适配项目",
     "type": "library",
     "license": "MIT",
